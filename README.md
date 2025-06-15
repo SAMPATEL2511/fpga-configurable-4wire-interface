@@ -55,14 +55,6 @@ This work presents a high-performance, SPI-based communication interface using a
 - **SignalTap Logic Analyzer**
 - **Oscilloscope for hardware verification**
 
----
-
-## 🖼️ Diagrams
-
-- ![Electrical Schematic](Diagrams/electrical_schematic.png)
-- ![SPI Timing Diagram](Diagrams/timing_diagram.png)
-
-
 
 
 ---
