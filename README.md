@@ -62,11 +62,8 @@ This work presents a high-performance, SPI-based communication interface using a
 - ![Electrical Schematic](Diagrams/electrical_schematic.png)
 - ![SPI Timing Diagram](Diagrams/timing_diagram.png)
 
----
 
-## 📄 Full Report
 
-📘 **[Download Thesis PDF](Docs/Master_Thesis_by_Parth_Bhalani.pdf)**
 
 ---
 
